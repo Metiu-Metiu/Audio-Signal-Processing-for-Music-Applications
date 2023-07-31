@@ -1,0 +1,8 @@
+COPYING.txt
+freesound.py
+setup.py
+freesound_python.egg-info/PKG-INFO
+freesound_python.egg-info/SOURCES.txt
+freesound_python.egg-info/dependency_links.txt
+freesound_python.egg-info/requires.txt
+freesound_python.egg-info/top_level.txt
